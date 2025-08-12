@@ -1,4 +1,4 @@
-# Pizza_Sales__Sql_Analysis
+# Pizza_Sales_Sql_Analysis
 # 🍕 Pizza Sales Analysis using SQL
 
 This project explores a pizza store's sales data using SQL to uncover key insights into revenue, customer preferences, and ordering behavior.
